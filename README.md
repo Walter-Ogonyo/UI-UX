@@ -1,1 +1,2 @@
 # UI-UX
+With the world going digital, we try to leverage technology to help teachers and students access the many possibilities over the internet for the purpose of accessing quality and efficient education materials. Here is a wireframe that depicts the app's UX design, encompasing various interactive elements that will be part of the final product. This will help the parties access and collaborate with others to access, upload and share different materials.
